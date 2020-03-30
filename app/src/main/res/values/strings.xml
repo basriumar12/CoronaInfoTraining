@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CoronaInfo</string>
+    <string name="positif">Positif</string>
+    <string name="sembuh">Sembuh</string>
+    <string name="meninggal">Meninggal</string>
+    <string name="aktfikan_widget_di_home_screen_handphone">Aktifikan Widget di Home Screen</string>
+</resources>
